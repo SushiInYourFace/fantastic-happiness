@@ -1,6 +1,1 @@
-# This is now changed. What will happen?
-Look at this, another change!
-and another!
-###ANOTHER???
-\n
-I don't get markdown
+Oh look, all the text that was here before is now gone
